@@ -19,6 +19,9 @@ nav{
     font-weight: bold;
     font-size:15px;
 }
+.active a{
+    color: #5cb55b;
+}
 .nav-item a:hover{
     color:#5cb55b;
 }
@@ -57,7 +60,7 @@ nav{
     margin-bottom:10px;
     font-size:14px;
 }
-#classes{
+#about{
     margin-top:50px;
     margin-bottom:53px;
 }
@@ -88,21 +91,21 @@ nav{
 .last{
     font-size: 18px;
 }
-#career{
+#pricing{
     background-color:#cdd9cf42;
     margin-bottom:53px;
 }
 
-#career .col-lg-3{
+#pricing .col-lg-3{
     height:177px;
 }
-#career .col-lg-3 .h2{ 
+#pricing .col-lg-3 .h2{ 
     margin-top:45px;
     font-size:50px;
     font-weight: bold;
     color:#5cb55b;
 }
-#career .col-lg-3 .botto{
+#pricing .col-lg-3 .botto{
     font-size:18px;
 }
 .cardlist i{
@@ -184,10 +187,17 @@ nav{
     margin-left:-64px;
 }
 
-#web{
+#courses{
     margin-top:123px;
 }
-#web .card{
+#courses .card{
+    width:367px;
+    height:515px;
+}
+#trainers{
+    margin-top:123px;
+}
+#trainers .card{
     width:367px;
     height:515px;
 }
@@ -302,7 +312,7 @@ nav{
     width: 550px;
     height:450px;
 }
-#footer{
+#contact{
     background-color:#8080800d;
     margin-top:83px;
 }
